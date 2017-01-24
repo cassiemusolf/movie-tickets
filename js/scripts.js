@@ -60,6 +60,6 @@ $(document).ready(function() {
     var moviesUserInput2 = new Ticket(pg13Movies, userTimeSelected, userInputAge);
     $('.hide-me2').show();
 
-    $("#span").text(moviesUserInput2.price());
+    $("#span").text("$" + moviesUserInput2.price());
   });
 });

@@ -5,3 +5,11 @@
 #kidMatinee, #kidRegular, #adultMatinee, #adultRegular, #seniorMatinee, #seniorRegular {
   display: none;
 }
+
+.jumbotron {
+  margin-top: 40px;
+}
+
+button {
+  margin-top: 20px;
+}
