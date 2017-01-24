@@ -1,0 +1,7 @@
+.hide-me, .hide-me2 {
+  display: none;
+}
+
+#kidMatinee, #kidRegular, #adultMatinee, #adultRegular, #seniorMatinee, #seniorRegular {
+  display: none;
+}
